@@ -1,0 +1,22 @@
+# Maven
+target/
+*.class
+dependency-reduced-pom.xml
+
+# Local broker credentials (never commit)
+mqtt-credentials.ps1
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
